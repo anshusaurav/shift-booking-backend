@@ -5,7 +5,7 @@
   "author": "Wolt",
   "license": "MIT",
   "scripts": {
-    "start": "nodemon ./api/server.js --exec babel-node"
+    "start": "node ./api/server.js --exec babel-node"
   },
   "dependencies": {
     "babel-cli": "^6.26.0",
